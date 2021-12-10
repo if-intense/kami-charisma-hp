@@ -39,7 +39,24 @@ html {
   font-size: 1.1em;
   line-height: 2em;
   /* font-weight:bold; */
-  margin:2vh 5px 4vh 10px;
+  margin:2vh 5px 2vh 10px;
+}
+
+.sign-text .greaty-contents {
+  margin:40px auto;
+  /* border-top:1px solid #9a9a9a; */
+  padding-top: 20px;
+}
+
+.sign-text .greaty-contents .contents h4 {
+  font-size:2em;
+}
+
+.sign-text .greaty-image {
+  border-top:1px solid #9a9a9a;
+  width:100%;
+  max-width: 240px;
+  margin: 0 auto;
 }
 
 .sign-text p span {
