@@ -176,3 +176,31 @@
   margin:0 10px;
   }
 }
+
+@media screen and (max-width:500px) {
+  .title h2 {
+    font-size:1.5em;
+    background: linear-gradient(transparent 40%, #E0CD7B 60%);
+  }
+}
+
+@media screen and (max-width:430px) {
+  .title h2 {
+    font-size:1.3em;
+    background: linear-gradient(transparent 40%, #E0CD7B 60%);
+  }
+}
+
+@media screen and (max-width:400px) {
+  .title h2 {
+    font-size:1.2em;
+    background: linear-gradient(transparent 40%, #E0CD7B 60%);
+  }
+}
+
+@media screen and (max-width:430px) {
+  .title h2 {
+    font-size:1.2em;
+    background: linear-gradient(transparent 40%, #E0CD7B 60%);
+  }
+}

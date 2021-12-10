@@ -45,7 +45,10 @@ html {
 .sign-text .greaty-contents {
   margin:40px auto;
   /* border-top:1px solid #9a9a9a; */
-  padding-top: 20px;
+  padding: 20px;
+  /* border: 1px solid #fbfcf8; */
+  /* background:#fbfcf8; */
+  /* box-shadow: 3px 3px 6px rgba(50,50,50,0.5); */
 }
 
 .sign-text .greaty-contents .contents h4 {
