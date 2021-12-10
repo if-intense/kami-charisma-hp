@@ -27,13 +27,13 @@
   background: linear-gradient(transparent 40%, #E0CD7B 60%);
 }
 
-.greaty {
+.logo-title {
   width:100%;
-  max-width:280px;
+  max-width:200px;
   margin:50px 0;
 }
 
-.greaty img {
+.logo-title img {
   width:100%;
 }
 
